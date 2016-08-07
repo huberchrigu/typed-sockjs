@@ -1,0 +1,6 @@
+{
+  "name": "sockjs",
+  "browser": "browser.d.ts",
+  "dependencies": {
+  }
+}
